@@ -1,15 +1,20 @@
 ### Date created
-Include the date you created this project and README file.
+08 March 2020
 
 ### Project Title
-Replace the Project Title
+US BikeShare data analysis project
 
 ### Description
-Describe what your project is about and what it does
+This is part of Udacity Python foundation course that uses knowledge of Python's modules- Pandas, to make sense of the bike sharing data provided, and answer relevant questions about it.
 
 ### Files used
-Include the files used
+Three csv files with data for three cities- chicago.csv, new_york_city.csv, washington.csv.
+One python file written to assess the data in the csv files - bikeshare_2.py.
+
+The data files have been excluded from the repository as per assignment criteria.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
+Stackoverflow.com
+Kaggle.com
 
