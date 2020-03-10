@@ -21,3 +21,7 @@ Kaggle.com
 ### Created by
 
 Leshoro Stephen Kubjana
+
+### Version 
+
+Project version 1.0
